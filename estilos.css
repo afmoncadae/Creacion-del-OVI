@@ -58,15 +58,7 @@ header nav a:hover {
 	background:#d4a402; 
 }
 
-.temas  {
-
-	padding: 30px;
-	text-align: justify;
-	font-family: 'Varela Round', sans-serif;
-	line-height: 28px;
-}
-
-.temas h2 {
+h2 {
 	text-align: center;
 	margin-bottom: 20px;
 	background: #d4a402;
@@ -76,24 +68,43 @@ header nav a:hover {
 
 }
 
+.temas  {
+
+	padding: 30px;
+	text-align: justify;
+	font-family: 'Varela Round', sans-serif;
+	line-height: 28px;
+	width: 60%;
+	float: left;
+}
+
+
+
 .temas p {
 	padding: 30px;
-}
-
-.redes{
-	background: orange;
-	padding: 20px;
-	margin-left: 80%;
-
 
 }
 
+aside {
+	width: 27%;
+	float: right;
+	padding: 25px;
 
+}
 
+aside p {
+	background: #026698;
+	padding: 10px;
+	color: white;
+	font-family: 'Varela Round', sans-serif;
+	text-align: center;
+	border-radius: 12px;
 
+}
 
-
-
+.active {
+	background: #d4a402;
+}
 
 footer {
 	background-color: #026698;
@@ -101,6 +112,9 @@ footer {
 	font-family: 'Exo 2', sans-serif;
 	color: white;
 	text-align: center;
+	border-style: solid;
+	clear: both;
+	display: block;
 
 
 }
