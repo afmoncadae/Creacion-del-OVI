@@ -153,6 +153,11 @@ footer {
 	width: 185px;
 }
 
+.github {
+	float: left;
+	width: 250px;
+}
+
 q{
 	background: #DADADA;
 	font-size: 12px;
