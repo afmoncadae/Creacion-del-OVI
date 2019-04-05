@@ -162,6 +162,11 @@ footer {
 	float: right;
 	width: 185px;
 }
+.css3 {
+	float: left;
+	width: 175px;
+	padding: 10px;
+}
 
 q{
 	background: #DADADA;
