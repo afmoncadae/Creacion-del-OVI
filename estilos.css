@@ -19,7 +19,7 @@ header .titulo {
 	color: #F2F2F2;
 	font-size: 45px;
 	float: left;
-	margin-left: 300px;
+	margin-left: 380px;
 	line-height: 160px;	
 	font-family: 'Exo 2', sans-serif;
 	width: 90%;
@@ -28,7 +28,7 @@ header .titulo {
 header nav {
 	z-index: 1;
 	position: absolute;
-	margin-left: 42%;
+	margin-left: 29%;
 	margin-top: 12%;
 
 }
@@ -175,3 +175,27 @@ q{
 	border-radius: 5px;
 	font-weight: bold;
 }
+
+/********** AUTORES *******/
+
+.autor {
+
+	width: 150px;
+	border-radius: 50%;
+	background: blue;
+	vertical-align: bottom;
+
+}
+
+.contenidoa {
+	display: inline-block;
+	padding-left: 18px;
+	padding: 10px;
+
+}
+
+.contend {
+
+	font-family: 'Exo 2', sans-serif;
+}
+
